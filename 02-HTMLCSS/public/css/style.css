@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    align-content: center;
+    margin: 25px auto;
+    width: 50%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 6px #e8e8e8;
+    padding: 30px 20px;
+}
+
+img{
+    width: 50%;
+}
+
+hr{
+    background-color: #cbcbcb;
+    height: 3px;
+    border: none;
+}
+
+.container__bottom{
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+}
+
+button{
+    background-color: #A149FA;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.container__bottom button{
+    align-items: center;
+}
